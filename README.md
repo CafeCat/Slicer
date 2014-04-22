@@ -5,8 +5,11 @@ Purpose:
 Slice images with a grid knife. In another word, crop multiple images into many rectangular pieces.
 
 How it work:
-Set the directory path. ex:$slicer -go c:\folder1\folder2
-Set the number of slice you want. ex:$slicer -slice 3x5
+Set the directory path. 
+ex:$slicer -go c:\folder1\folder2
+
+Set the number of slice you want. 
+ex:$slicer -slice 3x5
 
 Note:
 3x5 means 3 columns and 5 rows.

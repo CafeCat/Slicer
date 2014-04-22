@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slicer", "SlicerV2\Slicer.csproj", "{E80B7B0D-4FDA-4CAE-8084-63C3F9198698}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlicerV2", "SlicerV2\SlicerV2.csproj", "{E80B7B0D-4FDA-4CAE-8084-63C3F9198698}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

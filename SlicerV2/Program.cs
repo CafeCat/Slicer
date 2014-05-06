@@ -16,6 +16,7 @@ namespace SlicerV2
             Boolean quit = false;
             String workingDirectory = "";
             String[] allowExt = new String[] { "png", "jpeg", "jpg","gif" };
+            Console.WriteLine("Which folder? ex: $slicer -go [the folder path]");
             while (quit == false) {
                 String userInput = Console.ReadLine();
                 if (userInput == "c")
@@ -130,6 +131,7 @@ namespace SlicerV2
                                             Console.WriteLine("crop image error:" + ex.Message);
                                         }
                                     }
+                                    Console.WriteLine("Type c then press enter to exit the program.");
                                 }
                             }
                         }
